@@ -3,3 +3,4 @@ basics_and_system_startup
 graphical_interface
 linux_packaging
 command_line_operations
+documentation
