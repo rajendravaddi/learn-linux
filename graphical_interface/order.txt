@@ -1,2 +1,0 @@
-graphical_desktop.md
-session_management.md

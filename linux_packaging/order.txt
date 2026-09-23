@@ -1,1 +1,0 @@
-linux_package_management.md

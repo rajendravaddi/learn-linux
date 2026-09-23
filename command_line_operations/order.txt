@@ -1,5 +1,0 @@
-command_line_mode_options.md
-basic_operations.md
-working_with_files.md
-standard_file_streams.md
-package_management_systems.md
